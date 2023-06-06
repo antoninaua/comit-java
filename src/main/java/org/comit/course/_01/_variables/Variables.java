@@ -6,7 +6,11 @@ public class Variables {
 		// TODO Auto-generated method stub
    
 		int num = 5;
+		char hello = '&';
+		
 		System.out.println("The value is: " + num);
+		
+		
 	}
 
 }
