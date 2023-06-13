@@ -7,7 +7,7 @@ public class Scan {
 	public static void main(String[] args) {
 		
 		// Scanner - accepts user input.
-		 
+		// book - p 59 - 62
 		// Scanner will be closed automatically
 		
 		// Note - Remember to clean a buffer if you need to read a String after using a number
